@@ -72419,7 +72419,7 @@ A.we.prototype={
 ac(){var s=null
 return new A.O4(A.anh(s,s,new A.D(4294936655),s,s,s,s,s,s,B.j,s,B.Jy,B.ea,s,B.Ib,s,s,s,s),B.k)}}
 A.O4.prototype={
-I(a){var s,r=null,q=A.fn("Health Run",r,r,r,A.X(a).p3.a,r,r),p=A.X(a)
+I(a){var s,r=null,q=A.fn("Jog with friends",r,r,r,A.X(a).p3.a,r,r),p=A.X(a)
 p=A.cR(r,A.apf($.am9(),B.Cm,!1,new A.adw(),p.p3.Q),r,r,r,r,r,r,340)
 s=A.X(a)
 return A.mv(A.jd(A.a([q,B.ca,new A.cc(B.hc,p,r),new A.cc(B.hc,A.cR(r,A.apf($.ama(),B.Cn,!0,new A.adx(),s.p3.Q),r,r,r,r,r,r,340),r),new A.cc(B.hc,new A.FL(new A.ady(a),r,r,r,this.d,B.G,r,!1,r,B.Ol,r),r)],t.p),B.i8,B.an),r,r)}}
@@ -72644,7 +72644,7 @@ A.acN.prototype={
 $1(a){var s,r,q=null
 if(a==="SomeThing Wrong")return B.Ig
 else{s=this.a
-r=A.fn("Health Run",q,q,q,A.X(s).p3.r,q,q)
+r=A.fn("Jog with friends",q,q,q,A.X(s).p3.r,q,q)
 s=A.a([A.a_J(q,B.C4,q,new A.acL(s),q)],t.p)
 return new A.qA(new A.tX(r,s,new A.D(4294936655),new A.Pu(q,q,1/0,56),q),B.Gl,q)}},
 $S:421}
