@@ -1,6 +1,6 @@
 {
-    "name": "kawita_web",
-    "short_name": "kawita_web",
+    "name": "happo",
+    "short_name": "happo",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
